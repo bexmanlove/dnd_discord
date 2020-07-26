@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-# Auth.js
-auth.js
+# Auth.json
+.auth.json
