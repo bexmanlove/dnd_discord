@@ -1,8 +1,10 @@
 {
-“name”: “DND Maps”,
-“version”: “1.0.0”,
-“description”: “My First Discord Bot”,
-“main”: “bot.js”,
-“author”: “Amberly Lerner & Sarah Manlove”,
-“dependencies”: {}
+  "name": "DND Maps",
+  "version": "1.0.0",
+  "description": "My First Discord Bot",
+  "main": "bot.js",
+  "author": "Amberly Lerner & Sarah Manlove",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
