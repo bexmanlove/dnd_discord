@@ -5,6 +5,6 @@
   "main": "bot.js",
   "author": "Amberly Lerner & Sarah Manlove",
   "dependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   }
 }
